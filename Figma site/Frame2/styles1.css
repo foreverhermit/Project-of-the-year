@@ -1,0 +1,156 @@
+::-webkit-scrollbar { /* chrome based */
+    width: 0px;  /* ширина scrollbar'a */
+    background: transparent;  /* опционально */
+}
+
+html {
+    -ms-overflow-style: none;  /* IE 10+ */
+    scrollbar-width: none; /* Firefox */
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+}
+body {
+	margin: 0;
+	overflow-x: hidden;
+}
+.e85_3 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:1920px;
+	height:3000px;
+	position:absolute;
+}
+.e82_33 { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	background-color:rgba(0, 0, 0, 0.3499999940395355);
+	width:1920px;
+	height:1387px;
+	position:absolute;
+	left:0px;
+	top:0px;
+	background-image:url(images1/rectangle_5.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e82_41 { 
+	color:rgba(255, 255, 255, 1);
+	width:1510px;
+	height:61px;
+	position:absolute;
+	left:205px;
+	top:663px;
+	font-family:Inter;
+	text-align:left;
+	font-size:50px;
+	letter-spacing:0;
+}
+.e82_34 { 
+	width:1646px;
+	height:24px;
+	position:absolute;
+	left:137px;
+	top:90px;
+}
+.e82_35 { 
+	color:rgba(255, 255, 255, 1);
+	width:88px;
+	height:24px;
+	position:absolute;
+	left:138px;
+	top:0px;
+	font-family:Inter;
+	text-align:left;
+	font-size:20px;
+	letter-spacing:0;
+}
+.e82_36 { 
+	color:rgba(255, 255, 255, 1);
+	width:127px;
+	height:24px;
+	position:absolute;
+	left:443px;
+	top:0px;
+	font-family:Inter;
+	text-align:left;
+	font-size:20px;
+	letter-spacing:0;
+}
+.e82_37 { 
+	color:rgba(255, 255, 255, 1);
+	width:142px;
+	height:24px;
+	position:absolute;
+	left:1042px;
+	top:0px;
+	font-family:Inter;
+	text-align:left;
+	font-size:20px;
+	letter-spacing:0;
+}
+.e82_38 { 
+	color:rgba(255, 255, 255, 1);
+	width:89px;
+	height:24px;
+	position:absolute;
+	left:1392px;
+	top:0px;
+	font-family:Inter;
+	text-align:left;
+	font-size:20px;
+	letter-spacing:0;
+}
+.e82_39 { 
+	width:453px;
+	height:446px;
+	position:absolute;
+	left:733px;
+	top:-37px;
+	background-image:url(images1/luxury_university_logo_design_139869_120_2.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e82_40 { 
+	width:6rem;
+	height:2.5rem;
+	position:absolute;
+	left:113.7rem;
+	top: 0.05rem;
+	background-color: white;
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e82_42 { 
+	background-color:rgba(133.87499392032623, 122.71874696016312, 122.71874696016312, 1);
+	width:1920px;
+	height:1613px;
+	position:absolute;
+	left:0px;
+	top:1387px;
+}
+.e82_43 { 
+	color:rgba(255, 255, 255, 1);
+	width:264px;
+	height:73px;
+	position:absolute;
+	left:275px;
+	top:1588px;
+	font-family:Inter;
+	text-align:left;
+	font-size:60px;
+	letter-spacing:0;
+}
+
+.lala {
+	color: white;
+}
+
+.hahaha1 {
+	margin-left: 0.25rem;
+	color: black;
+}
+
+.hahaha {
+	color: black;
+}
